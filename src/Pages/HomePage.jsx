@@ -1,6 +1,6 @@
 import { useNavigate } from "react-router-dom";
-import Button from "../components/Button";
-import ServiceCard from "../components/ServiceCard";
+import Button from "../Components/Button";
+import ServiceCard from "../Components/ServiceCard";
 import hero from "../assets/mainheropage.jpeg"
 import flower1 from "../assets/Flower1.jpeg";
 import flower2 from "../assets/Flower2.jpeg";

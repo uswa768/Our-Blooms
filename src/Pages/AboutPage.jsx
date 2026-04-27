@@ -1,5 +1,5 @@
  import { useNavigate } from 'react-router-dom'
-import Button from '../components/Button'
+import Button from '../Components/Button'
 import Image3 from '../assets/Image 03.png'
 
 const AboutPage = () => {
